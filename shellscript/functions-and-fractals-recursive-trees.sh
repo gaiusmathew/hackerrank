@@ -1,4 +1,3 @@
-# @see https://www.hackerrank.com/challenges/fractal-trees-all
 # Creating a Fractal Tree from Y-shaped branches
 #
 # This challenge involves the construction of trees, in the form of ASCII Art.
@@ -82,7 +81,7 @@
 #_________________________________________________1__________________________________________________
 #_________________________________________________1__________________________________________________
 
-#!/usr/bin/env bash
+#!/usr/bin/bash
 read N
 
 MAX_N=5
